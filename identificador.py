@@ -1,6 +1,6 @@
 import os
 import shutil
-import customtkinter as ctk  # A biblioteca bonita
+import customtkinter as ctk 
 from tkinter import filedialog, messagebox
 from PIL import Image
 from sentence_transformers import SentenceTransformer, util
